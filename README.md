@@ -1,6 +1,8 @@
 # The New Loop Theory
 
-An evolving theory exploring how competitive loops emerge, evolve, and reshape how value is created and accumulated within competitive systems.
+An evolving theory exploring how competitive loops emerge, evolve, and reshape how value is created and accumulated within competitive systems. 
+
+This repository contains a research framework that applies system dynamics to deconstruct high-dimensional business complexity. Here, "The New Loop" signifies a deliberate descent in analytical dimensionality: from the high-dimensional, noisy surface of observable outcomes, through the structural layer of feedback dynamics, down to the innermost core of mental models and implicit assumptions.
 
 [English](README.md) | [简体中文](README_zh-CN.md)
 
@@ -154,7 +156,7 @@ This distinction reflects the intended boundary of the project: the theoretical 
 
 When referencing or building upon materials from this repository, please credit:
 
-**The New Loop Theory — by Val_beta (Lu Yao)**
+**The New Loop Theory — by Val_beta**
 ORCID: [0009-0003-3898-3612]
 
 Please provide a link to this repository where reasonably possible.
@@ -171,5 +173,5 @@ This repository is an open research project.
 
 The publication of a concept, hypothesis, model, or theoretical mechanism does not constitute a representation that the concept is universally applicable, empirically validated, or suitable for any particular commercial, strategic, or operational purpose.
 
-Copyright © 2026 Lu Yao (Val_beta).
+Copyright © 2026 (Val_beta).
 
