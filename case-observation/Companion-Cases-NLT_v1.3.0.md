@@ -4,7 +4,7 @@
 
 ---
 
-> **Corresponding theory version**: [The New Loop Theory v1.3.0](placeholder)
+> **Corresponding theory version**: [The New Loop Theory v1.3.0](/theory/The-New-Loop-Theory_v1.3.0.md)
 > **Case collection version**: v2.1
 > **Date**: 2026-10-01
 
@@ -66,7 +66,7 @@ Seen from this perspective, Quibi's rapid failure was not simply a matter of pro
 
 Before launch, Quibi committed substantial capital and pre-purchased and produced large volumes of content. This allowed the platform to launch with a significant content offering, but it also reduced the room available to reconfigure its value relationships in response to actual user feedback. What the platform needed to establish was not simply whether users were willing to watch, but whether users, content production, distribution, and the business model could form a new relationship capable of sustained reinforcement.
 
-This is why [Asymmetric Iteration](placeholder) is particularly relevant to the case.
+This is why [Asymmetric Iteration](/theory/The-New-Loop-Theory_v1.3.0.md#713-asymmetric-iteration) is particularly relevant to the case.
 
 A new value structure is rarely designed completely in advance. What matters is not simply how compelling the initial asymmetry appears, but whether the innovator can continuously adjust the value relationship once real-world feedback arrives. Quibi's large capital base may have made this exploration more rigid: it had ample resources to execute its original assumptions, but not necessarily an equally strong structure for continuously revising those assumptions.
 
@@ -114,7 +114,7 @@ If not, the new value still had to depend on the existing supply structure.
 
 ### Why Scale Did Not Automatically Become Structural Capability
 
-During its expansion, WeWork accumulated large numbers of users, locations, brand recognition, and community relationships. All of these can be considered stocks, but the **[Core Stock](placeholder)** in NLT is not simply a general term for valuable resources owned by a company.
+During its expansion, WeWork accumulated large numbers of users, locations, brand recognition, and community relationships. All of these can be considered stocks, but the **[Core Stock](/theory/The-New-Loop-Theory_v1.3.0.md#82-core-stock)** in NLT is not simply a general term for valuable resources owned by a company.
 
 The key question is whether these stocks carry a structure capable of continuously strengthening the new value-creation capability.
 
@@ -146,7 +146,7 @@ This also gives WeWork and Quibi something in common. Both show that a new dimen
 
 **Observation period: 2015–2019**
 
-Shared bikes are particularly useful for examining **[Amplifying](placeholder)** because the market displayed extraordinarily rapid growth over a short period.
+Shared bikes are particularly useful for examining **[Amplifying](/theory/The-New-Loop-Theory_v1.3.0.md#72-amplifying)** because the market displayed extraordinarily rapid growth over a short period.
 
 As the number of bikes increased, users could find bikes more easily. As the user base grew, more riding data accumulated. Greater coverage then attracted more users. The early shared-bike market therefore appeared to contain a very typical reinforcing relationship:
 
@@ -166,7 +166,7 @@ Bikes wear out. They require repair, replacement, repositioning, and maintenance
 
 Both dynamics exist simultaneously.
 
-Shared-bike growth therefore cannot, by itself, demonstrate the presence of **[Net Amplifying](placeholder)**. The real question is whether, as the system expands, the reinforcing relationships increasingly improve the system's own capacity to accumulate value, or whether every round of growth simultaneously creates greater costs and resistance.
+Shared-bike growth therefore cannot, by itself, demonstrate the presence of **[Net Amplifying](/theory/The-New-Loop-Theory_v1.3.0.md#722-net-amplifying)**. The real question is whether, as the system expands, the reinforcing relationships increasingly improve the system's own capacity to accumulate value, or whether every round of growth simultaneously creates greater costs and resistance.
 
 That distinction matters more than whether a system appears to have a “flywheel.”
 
@@ -200,7 +200,7 @@ A company can grow extremely quickly and still fail to form a loop capable of co
 
 **Observation period: 1999–2013**
 
-BlackBerry is particularly useful for examining [Ascendance](placeholder) and [Sequential Ascendance](placeholder), because traditional business histories can easily reduce the story to a simple narrative: BlackBerry led the market, failed to keep up after the iPhone appeared, and was eventually displaced.
+BlackBerry is particularly useful for examining [Ascendant](/theory/The-New-Loop-Theory_v1.3.0.md#73-ascendant) and [Sequential Ascendance](/theory/The-New-Loop-Theory_v1.3.0.md#732-sequential-ascendance), because traditional business histories can easily reduce the story to a simple narrative: BlackBerry led the market, failed to keep up after the iPhone appeared, and was eventually displaced.
 
 That account is not entirely wrong, but it does not reach the question that matters most for NLT.
 
@@ -230,7 +230,7 @@ Mobile devices increasingly evolved from communication terminals into general-pu
 
 The most important observation at this point is that BlackBerry's original stocks did not suddenly become zero.
 
-Enterprise security capabilities still had value. Enterprise customer relationships still existed. The brand still existed. What changed was the **[gain function](placeholder)** of those stocks.
+Enterprise security capabilities still had value. Enterprise customer relationships still existed. The brand still existed. What changed was the **[Gain Function](/theory/The-New-Loop-Theory_v1.3.0.md#52-gain-function)** of those stocks.
 
 The same security capabilities no longer determined the primary direction of value accumulation within a system increasingly driven by general-purpose computing platforms and application ecosystems. At the same time, developer ecosystems, application breadth, and user scale began to acquire stronger system-level gains.
 
@@ -238,7 +238,7 @@ What happened, then, was not simply a “BlackBerry versus iPhone” competitive
 
 ### Ascendance and Sequential Ascendance
 
-This is why [Ascendant within the 3A framework](placeholder) is more usefully understood as a system state than as a ranking among firms.
+This is why Ascendant within the [3A framework](/theory/The-New-Loop-Theory_v1.3.0.md#7-the-3a-constraint-framework) is more usefully understood as a system state than as a ranking among firms.
 
 A New Loop becoming dominant does not mean that it will retain Ascendance permanently. System conditions continue to change, and what the system rewards continued accumulation of changes with them.
 
@@ -296,7 +296,7 @@ Neither exited a position of Ascendance because its original stock suddenly lost
 
 This was true of BlackBerry's enterprise security system and of Skype's user network.
 
-This makes **[Sequential Ascendance](placeholder)** more than a concept describing “who replaced whom.” It becomes a way of describing system evolution: **the system continually redefines what is worth accumulating and which feedback relationships can continue to generate value.**
+This makes **[Sequential Ascendance](/theory/The-New-Loop-Theory_v1.3.0.md#732-sequential-ascendance)** more than a concept describing “who replaced whom.” It becomes a way of describing system evolution: **the system continually redefines what is worth accumulating and which feedback relationships can continue to generate value.**
 
 ---
 
@@ -304,7 +304,7 @@ This makes **[Sequential Ascendance](placeholder)** more than a concept describi
 
 **Observation period: 2010–2016**
 
-Xiaomi's early development is particularly useful for examining the relationship among Core Loop, Core Stock, [Asymmetric Iteration](placeholder), and [Stock Migration](placeholder), because Xiaomi did not begin with a fully formed business system.
+Xiaomi's early development is particularly useful for examining the relationship among Core Loop, Core Stock, [Asymmetric Iteration](/theory/The-New-Loop-Theory_v1.3.0.md#713-asymmetric-iteration), and [Stock Migration](/theory/The-New-Loop-Theory_v1.3.0.md#83-stock-migration), because Xiaomi did not begin with a fully formed business system.
 
 Around 2010, Android already existed, the smartphone industry was already established, and user feedback, online communities, and software iteration were hardly Xiaomi's inventions. What is worth observing is how Xiaomi connected these existing elements in a different way.
 
@@ -456,14 +456,14 @@ From this perspective, case observation is never merely decorative proof of a th
 
 | Case                        | Primary Observational Themes                                        | Related Sections                                            |
 | --------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------- |
-| Quibi                       | Asymmetry, value coupling, Asymmetric Iteration                     | §[7.1](placeholder)                                         |
-| WeWork                      | Asymmetry, supply-demand value relationships, stocks and Amplifying | §[7.1](placeholder), §[7.2](placeholder), §[8](placeholder) |
-| Shared bikes (ofo / Mobike) | Amplifying, Balancing Loops, Key Stock and Core Stock               | §[7.2](placeholder), §[8](placeholder)                      |
-| BlackBerry                  | Core Stock, gain function, Ascendance, Sequential Ascendance        | §[7.3](placeholder), §[8](placeholder)                      |
-| Skype                       | Network-based Amplifying, Ascendance, Sequential Ascendance         | §[7.2](placeholder), §[7.3](placeholder)                    |
-| Xiaomi                      | Asymmetric Iteration, Core Loop, Core Stock, Stock Migration        | §[7.1](placeholder), §[8](placeholder)                      |
+| Quibi                       | Asymmetry, value coupling, Asymmetric Iteration                     | §[7.1](/theory/The-New-Loop-Theory_v1.3.0.md#71-asymmetric)                                         |
+| WeWork                      | Asymmetry, supply-demand value relationships, stocks and Amplifying | §[7.1](/theory/The-New-Loop-Theory_v1.3.0.md#71-asymmetric), §[7.2](/theory/The-New-Loop-Theory_v1.3.0.md#72-amplifying), §[8](/theory/The-New-Loop-Theory_v1.3.0.md#8-core-mechanisms) |
+| Shared bikes (ofo / Mobike) | Amplifying, Balancing Loops, Key Stock and Core Stock               | §[7.2](/theory/The-New-Loop-Theory_v1.3.0.md#72-amplifying), §[8](/theory/The-New-Loop-Theory_v1.3.0.md#8-core-mechanisms)                      |
+| BlackBerry                  | Core Stock, gain function, Ascendance, Sequential Ascendance        | §[7.3](/theory/The-New-Loop-Theory_v1.3.0.md#73-ascendant), §[8](/theory/The-New-Loop-Theory_v1.3.0.md#8-core-mechanisms)                      |
+| Skype                       | Network-based Amplifying, Ascendance, Sequential Ascendance         | §[7.2](/theory/The-New-Loop-Theory_v1.3.0.md#72-amplifying), §[7.3](/theory/The-New-Loop-Theory_v1.3.0.md#73-ascendant)                    |
+| Xiaomi                      | Asymmetric Iteration, Core Loop, Core Stock, Stock Migration        | §[7.1](/theory/The-New-Loop-Theory_v1.3.0.md#71-asymmetric), §[8](/theory/The-New-Loop-Theory_v1.3.0.md#8-core-mechanisms)                      |
 
-> **Note**: Netflix and NVIDIA / CUDA in [Chapter 9](placeholder) of the main theory are core theoretical case observations and serve a different function from the companion cases in this collection. They are therefore not repeated here, but remain the primary case observations within the main theory.
+> **Note**: Netflix and NVIDIA / CUDA in [Chapter 9](/theory/The-New-Loop-Theory_v1.3.0.md#9-unified-explanatory-framework-for-case-observations) of the main theory are core theoretical case observations and serve a different function from the companion cases in this collection. They are therefore not repeated here, but remain the primary case observations within the main theory.
 
 ---
 
