@@ -46,9 +46,9 @@ Core Stock matters when its accumulation contributes to continuous endogenous re
 
 ### Asymmetric Iteration
 
-Potential New Loops can be deliberately explored around structural Asymmetry. Yet the eventual Core Loop is not fully determined by the initial design. It may stabilize and change through repeated experimentation, feedback from the system, and structural adjustment.
+Potential New Loops can be deliberately explored around Asymmetric structure. Yet the eventual Core Loop is not fully determined by the initial design. It may stabilize and change through repeated experimentation, feedback from the system, and structural adjustment.
 
-Core Loop formation, Core Stock accumulation, and Amplification need not occur in a fixed temporal sequence. They may develop concurrently and influence one another through multiple rounds of Asymmetric Iteration.
+Core Loop formation, Core Stock accumulation, and Amplifying effect need not occur in a fixed temporal sequence. They may develop concurrently and influence one another through multiple rounds of Asymmetric Iteration.
 
 ### Stock Migration and system evolution
 
@@ -60,7 +60,7 @@ Core Loop formation, Core Stock accumulation, and Amplification need not occur i
 
 1. What loop is creating and accumulating value in the existing system?
 2. Where might a New Loop be emerging within or around that system?
-3. What structural Asymmetry distinguishes its value-accumulation logic?
+3. What Asymmetric structure distinguishes its value-accumulation logic?
 4. Through what Core Loop could it reinforce itself?
 5. What Core Stock is accumulated, and how does it support further reinforcement?
 6. Under what System Conditions could the New Loop become Ascendant?
@@ -71,7 +71,7 @@ These questions describe the subject of research; they are not a prescribed inno
 
 ## Case Observation
 
-Companion cases currently include **NVIDIA CUDA**, **Netflix**, and **Xiaomi**. They are used to examine mechanisms and sharpen questions, not to treat company success as proof of the theory. Cases should be read critically, alongside alternative explanations and potential counterexamples.
+Companion cases currently include **NVIDIA CUDA**, **Netflix**, **Quibi**, **WeWork**, **Shared Bikes**, **BlackBerry**, **Skype**, and **Xiaomi**. They are used to examine mechanisms and sharpen questions, not to treat company success as proof of the theory. Cases should be read critically, alongside alternative explanations and potential counterexamples.
 
 - [Case observation collection](case-observation/)
 
@@ -80,8 +80,8 @@ Companion cases currently include **NVIDIA CUDA**, **Netflix**, and **Xiaomi**. 
 The public theory distinguishes established concepts from ongoing research. Current directions include:
 
 - More rigorous identification and decomposition of Core Stock
-- Distinguishing structural Asymmetry from ordinary competitive advantage
-- Distinguishing endogenous Amplification from growth driven by external conditions
+- Distinguishing Asymmetric structure from ordinary competitive advantage
+- Distinguishing endogenous Amplifying from growth driven by external conditions
 - Gain Function and Attractor Migration
 - Broader case coverage, counterexamples, and theoretical boundaries
 
@@ -97,7 +97,7 @@ Critical feedback, alternative explanations, counterexamples, and case suggestio
 
 ## License and Intellectual Property
 
-This repository contains multiple types of intellectual property associated with **The New Loop Theory** (Chinese name: **降维创新**).
+This repository contains multiple types of intellectual property associated with **The New Loop Theory** (Chinese name: **降维创新理论**).
 
 Unless otherwise stated:
 
