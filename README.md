@@ -1,177 +1,130 @@
 # The New Loop Theory
 
-An evolving theory exploring how competitive loops emerge, evolve, and reshape how value is created and accumulated within competitive systems. 
-
-This repository contains a research framework that applies system dynamics to deconstruct high-dimensional business complexity. Here, "The New Loop" signifies a deliberate descent in analytical dimensionality: from the high-dimensional, noisy surface of observable outcomes, through the structural layer of feedback dynamics, down to the innermost core of mental models and implicit assumptions.
+**The New Loop Theory** is an evolving theoretical research framework that explores how new competitive loops emerge within existing Business Systems, accumulate structural strength, and may reshape the mechanisms through which value is created and accumulated.
 
 [English](README.md) | [简体中文](README_zh-CN.md)
 
 ## Status
 
-🧪 **Experimental Research**
+**Current public theory version: v1.3.1 — Core Stock Definition Clarification**
 
-The New Loop Theory is an evolving research framework.
-
-Its core logic has been developed through long-term observation and practice, while the theoretical model continues to be refined, tested, and challenged through cases, empirical observations, and further research.
+The theory remains an evolving research framework. Its concepts and explanatory boundaries are open to examination through cases, counterexamples, and further research. Publication does not imply universal applicability or completed empirical validation.
 
 ## Core Question
 
-Organizations continuously seek growth, sustainability, and competitive advantage.
+> **How can a New Loop emerge within an existing Competitive System, develop endogenous reinforcement, and potentially alter the system's dominant path of value accumulation?**
 
-Within an existing competitive system, however, most organizations are deeply embedded in established ways of creating and capturing value. As conditions evolve, improving existing advantages may become increasingly difficult while new sources of value begin to emerge elsewhere in the system.
+The New Loop Theory studies the causal structures behind competitive change. It treats a Business System as a Complex Adaptive System (CAS) and takes the **Loop** as its fundamental analytical unit. Observable outcomes—products, business models, market positions, and individual advantages—are examined in relation to the feedback structures and System Conditions that allow them to form and persist.
 
-The New Loop Theory asks:
+The theory is concerned with the evolution of value creation and value accumulation, not merely with direct comparisons between firms or the replacement of one product by another.
 
-> **How does a new competitive loop emerge within an existing system, gain enough momentum, and possibly eventually become dominant?**
+## Theoretical Architecture
 
-The focus is on understanding the mechanisms through which new loops emerge, accumulate value, gain momentum, and potentially reshape the competitive system.
+### From system to loop
 
-## Overview
+A mature Business System is often organized around an established **Old Loop**. A **New Loop** may emerge within or around that system and develop a different logic of value creation and accumulation. The New Loop is not defined simply by novelty, growth, or differentiation; its significance depends on the causal structure it develops and its relationship with the wider Competitive System.
 
-The New Loop Theory explores how new loops emerge in existing competitive systems and become dominant.
+### The 3A Framework
 
-It views competition as a complex adaptive system in which value is created and accumulated through relationships, feedback mechanisms, resource flows, and reinforcing loops.
+The New Loop is examined through three fundamental attributes:
 
-A competitive advantage is rarely the result of an isolated capability or resource. It is often supported by a competitive loop that allows value and advantage to accumulate over time.
+- **Asymmetric** — a structural difference in how value is created, captured, or accumulated.
+- **Amplifying** — endogenous feedback through which the loop reinforces its own development. External support or growth alone does not establish endogenous amplification.
+- **Ascendant** — an evolutionary condition in which the loop gains increasing systemic influence over the direction of value accumulation.
 
-The theory therefore looks beneath visible outcomes such as products, business models, market positions, and competitive advantages to examine the reinforcing mechanisms that make them effective under particular conditions.
+The 3A Framework describes necessary conditions under investigation, not a deterministic recipe or a guarantee of success.
 
-A new loop may begin with a previously overlooked behavior, capability, technology, or value-creation mechanism. Initially, it may appear relatively insignificant compared with the dominant system. If it develops sufficient reinforcement and momentum, however, it may begin shifting where value accumulates and eventually influence the structure of competition.
+### Core Loop and Core Stock
 
-The theory is concerned with this underlying process: **how competitive loops emerge, how they gain momentum, and how changes in value accumulation can reshape the mechanisms through which competitive advantage is created.**
+The theory distinguishes the New Loop from its internal reinforcing mechanism:
 
-## How It Works in a Nutshell
+- **Core Loop** is the central feedback structure through which the emerging competitive logic reinforces itself.
+- **Core Stock** is the deeper structural stock accumulated through the Core Loop. It need not be a single directly measurable variable; depending on the system, it may be a compound or structural state.
+- **Key Stock** generally refers to a concrete stock indicator used to observe or manage accumulation. It may help reveal aspects of Core Stock, but the two concepts are not interchangeable.
 
-The current research examines four connected questions:
+Core Stock matters when its accumulation contributes to continuous endogenous reinforcement under specific System Conditions. Growth by itself is neither sufficient evidence of such reinforcement nor necessary evidence that Core Stock has formed.
 
-1. **What competitive loop is creating and accumulating value in the existing system?**
-2. **Where might a new competitive loop be emerging within or around that system?**
-3. **What allows the new loop to gain sufficient reinforcement and momentum?**
-4. **Under what conditions might the new loop become dominant and reshape the competitive system?**
+### Asymmetric Iteration
 
-These questions describe the mechanisms under investigation rather than a prescribed innovation process.
+Potential New Loops can be deliberately explored around structural Asymmetry. Yet the eventual Core Loop is not fully determined by the initial design. It may stabilize and change through repeated experimentation, feedback from the system, and structural adjustment.
 
-Not every emerging loop becomes dominant. Some may influence only part of the system, while others may accumulate enough momentum to change how value is created and accumulated across the broader competitive environment.
+Core Loop formation, Core Stock accumulation, and Amplification need not occur in a fixed temporal sequence. They may develop concurrently and influence one another through multiple rounds of Asymmetric Iteration.
 
-## Research Areas
+### Stock Migration and system evolution
 
-This repository explores:
+**Stock Migration** concerns changes in the system-level path through which accumulated value and resources flow. Competitive change therefore cannot always be reduced to one firm replacing another. As System Conditions evolve, the dominant path of value accumulation may shift, and previously decisive stocks or advantages may lose relative leverage.
 
-* How competitive loops emerge and evolve
-* How existing loops create and accumulate value
-* Why existing advantages can lose effectiveness
-* How new loops gain reinforcement and momentum
-* How value accumulation patterns shift
-* How competitive systems reorganize around emerging mechanisms
-* How visible business models relate to deeper competitive loops
-* Boundaries and limitations of the theory
+**Sequential Ascendance** describes the possibility that successive loops become influential as the conditions of a Competitive System evolve. It is a system-evolution concept, not a prediction that every emerging loop will succeed.
 
-## Case Studies
+## Questions the Research Examines
 
-Current cases include:
+1. What loop is creating and accumulating value in the existing system?
+2. Where might a New Loop be emerging within or around that system?
+3. What structural Asymmetry distinguishes its value-accumulation logic?
+4. Through what Core Loop could it reinforce itself?
+5. What Core Stock is accumulated, and how does it support further reinforcement?
+6. Under what System Conditions could the New Loop become Ascendant?
+7. How might Stock Migration change the dominant path of value accumulation?
+8. Where are the explanatory boundaries, counterexamples, and conditions under which the theory may be wrong?
 
-* NVIDIA CUDA
-* Netflix
-* Xiaomi
+These questions describe the subject of research; they are not a prescribed innovation workflow.
 
-Cases are used to examine the mechanisms behind competitive change rather than simply classify companies as examples of the theory.
+## Case Observation
 
-See [`/cases`](cases/) for the current case collection.
+Companion cases currently include **NVIDIA CUDA**, **Netflix**, and **Xiaomi**. They are used to examine mechanisms and sharpen questions, not to treat company success as proof of the theory. Cases should be read critically, alongside alternative explanations and potential counterexamples.
 
-## Open Questions
+- [Case observation collection](case-observation/)
 
-The theory is still evolving.
+## Current Research Directions
 
-Current questions include:
+The public theory distinguishes established concepts from ongoing research. Current directions include:
 
-* What conditions allow a new loop to gain sufficient momentum?
-* How can the declining effectiveness of an existing loop be identified?
-* How does value accumulation shift from one competitive loop toward another?
-* When does an emerging loop become influential across the broader system?
-* What prevents a potentially powerful new loop from becoming dominant?
-* Under what conditions can an existing advantage become a constraint rather than a source of leverage?
+- More rigorous identification and decomposition of Core Stock
+- Distinguishing structural Asymmetry from ordinary competitive advantage
+- Distinguishing endogenous Amplification from growth driven by external conditions
+- Gain Function and Attractor Migration
+- Broader case coverage, counterexamples, and theoretical boundaries
 
-See [`/experiments`](experiments/) for ongoing hypotheses, observations, and open questions.
+PACT remains an exploratory research direction and is **not part of the formal v1.3.1 theory**.
 
 ## Relationship With Existing Theories
 
-The New Loop Theory connects with existing perspectives in innovation, strategy, and systems thinking.
+The New Loop Theory engages with research in innovation, strategy, and systems thinking, including Disruptive Innovation, Blue Ocean Strategy, First Principles Thinking, and Dynamic Capability Theory. It does not claim to replace these perspectives. Its particular focus is the emergence and reinforcement of new competitive loops and the resulting shifts in value accumulation.
 
-It shares questions with perspectives such as Disruptive Innovation, Blue Ocean Strategy, First Principles Thinking, and Dynamic Capability Theory, while focusing on a different mechanism:
+## Contributing to the Discussion
 
-> **How do new competitive loops emerge within existing systems, gain momentum, and fundamentally shift where value accumulates?**
+Critical feedback, alternative explanations, counterexamples, and case suggestions are welcome. The aim is to make the theory's development observable, discussable, and testable—including the conditions under which its explanations fail.
 
-The purpose of this repository is to explore that mechanism further rather than to position the theory as a replacement for existing theories.
+## License and Intellectual Property
 
-## Discussion
-
-Feedback, alternative perspectives, counter-examples, and case suggestions are welcome.
-
-This repository is intended to make the development of the theory observable, discussable, and testable.
-
-## Current Research Status
-
-The repository currently documents:
-
-* Theoretical concepts
-* System models
-* Business cases
-* Empirical observations
-* Limitations
-* Open questions
-
-The goal is to develop a deeper understanding of how competitive systems evolve, how new loops emerge and gain momentum, how value accumulation patterns shift, and how new mechanisms can sometimes transform the basis of competitive advantage.
-
-The New Loop Theory does not attempt to provide a universal formula for innovation.
-
-## License
-
-This repository contains multiple types of intellectual property of **The New Loop Theory** (中文名称：**降维创新**).
+This repository contains multiple types of intellectual property associated with **The New Loop Theory** (Chinese name: **降维创新**).
 
 Unless otherwise stated:
 
-- Theory, research materials, case studies, diagrams, and documentation
-  are licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**. 
-
-- Software source code is licensed separately under the license specified
-  in the relevant directory or file.
-
-- Agent and Skill definitions are subject to the license or usage terms
-  explicitly stated in their respective directories.
-
-- Proprietary, unpublished, or separately developed materials remain
-  outside the scope of these licenses.
+- Theory, research materials, case observations, diagrams, and documentation are licensed under **CC BY-NC-SA 4.0**.
+- Software source code is governed by the license specified in its relevant directory or file.
+- Agent and Skill definitions are subject to the terms stated in their respective directories.
+- Proprietary, unpublished, or separately developed materials remain outside the scope of these licenses.
 
 ### Dao and Shu
 
-The purpose of this repository is to make the **Dao** — the underlying logic, conceptual framework, and theoretical mechanisms of The New Loop Theory — openly available for research, discussion, criticism, and non-commercial exploration.
+The **Dao**—the underlying logic, concepts, and theoretical mechanisms—is openly shared for research, discussion, criticism, and non-commercial exploration.
 
-The **Shu** — including proprietary execution methods, operational details, commercial tools, implementation frameworks, training systems, and other materials not explicitly published and licensed in this repository — remains outside the scope of this open license.
+The **Shu**—including proprietary execution methods, operational details, commercial tools, implementation frameworks, training systems, and materials not explicitly published and licensed here—remains outside the scope of this open license.
 
 **The Dao is open. The Shu remains proprietary unless explicitly released otherwise.**
 
-This distinction reflects the intended boundary of the project: the theoretical foundation is developed as an open research project, while specific implementation systems and commercial applications may remain proprietary or be released under separate terms.
+### Attribution and commercial use
 
-### Attribution
+When referencing or building upon this repository, please credit:
 
-When referencing or building upon materials from this repository, please credit:
-
-**The New Loop Theory — by Val_beta**
+**The New Loop Theory — by Val_beta**  
 ORCID: [0009-0003-3898-3612]
 
-Please provide a link to this repository where reasonably possible.
+Please link to this repository where reasonably possible. Commercial use of materials covered by CC BY-NC-SA 4.0 is not automatically permitted. For permissions beyond the license or for commercial collaboration, contact the author.
 
-### Commercial Use
+### Notice
 
-Commercial use of materials covered by this license is not automatically permitted.
+This is an open research project. Publishing a concept, hypothesis, model, or mechanism does not represent that it is universally applicable, empirically validated, or suitable for a particular commercial, strategic, or operational purpose.
 
-For commercial licensing, permission to use repository materials outside the scope of CC BY-NC-SA 4.0, or collaboration involving proprietary methodologies and implementation systems, please contact the author.
-
-### Important Notice
-
-This repository is an open research project.
-
-The publication of a concept, hypothesis, model, or theoretical mechanism does not constitute a representation that the concept is universally applicable, empirically validated, or suitable for any particular commercial, strategic, or operational purpose.
-
-Copyright © 2026 (Val_beta).
-
+Copyright © 2026 Val_beta.
